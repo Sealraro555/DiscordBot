@@ -39,7 +39,6 @@ propcache==0.2.1
 protobuf==4.25.5
 pyasn1==0.6.1
 pyasn1_modules==0.4.1
-PyAudio==0.2.14
 requests==2.32.3
 requests-oauthlib==2.0.0
 rsa==4.9
